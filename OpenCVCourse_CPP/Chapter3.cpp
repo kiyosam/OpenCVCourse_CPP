@@ -6,7 +6,7 @@
 using namespace cv; // using the cv namespace to avoid typing cv:: every time
 using namespace std; // using the std namespace for standard library functions
 
-/////////////// Basic Image Processing in OpenCV /////////////////
+/////////////// Cropping and resizing /////////////////
 
 void main() {
 
